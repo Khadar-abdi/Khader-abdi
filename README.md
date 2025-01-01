@@ -22,13 +22,7 @@ Welcome to my little corner of the internet! I’m a **Software Engineer** and *
 | React.js, Next.js      | Node.js, Express.js  | MongoDB, MySQL       | TailwindCSS, DaisyUI |
 | TypeScript, JavaScript | JWT, OAuth, REST APIs| Firebase, Prisma     | Responsive Design    |
 
----
-
-### 🏆 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhadarAbdiHassan&show_icons=true&theme=radical&hide_title=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhadarAbdiHassan&theme=radical" width="49%">
-</div>
+ 
 
 ---
 
@@ -66,7 +60,7 @@ Find me on your favorite platform!
 ---
 
 ### **✨ Final Touch**
-![GIF](https://media.giphy.com/media/l3vQXT4cy6nHXuGoE/giphy.gif)  
+ 
 _Keep learning, keep coding, and never stop dreaming!_
 
 ---
