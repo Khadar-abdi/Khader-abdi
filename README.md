@@ -55,7 +55,7 @@ _A simple yet elegant task manager._
 Find me on your favorite platform!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/khadar-abdi-hassan)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/KhadarDev)  
-[![Website](https://img.shields.io/badge/Website-Explore-orange?style=flat&logo=google-chrome)](https://daudideas.com)
+[![Website](https://img.shields.io/badge/Website-Explore-orange?style=flat&logo=google-chrome)](https://portfoliokhader.vercel.app/)
 
 ---
 
